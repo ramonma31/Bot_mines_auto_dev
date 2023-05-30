@@ -1,6 +1,4 @@
-random
 telebot
 pendulum
-time
 os
 
